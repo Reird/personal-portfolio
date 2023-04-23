@@ -89,7 +89,7 @@ export const Contact = () => {
             </TrackVisibility>
           </Col>
         </Row>
-      </Containe>
+      </Container>
     </section>
   )
 }
